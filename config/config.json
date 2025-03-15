@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "riversdev",
+    "password": "12345678",
+    "database": "tarea_clientes_pedidos_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "riversdev",
+    "password": "12345678",
+    "database": "tarea_clientes_pedidos_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "riversdev",
+    "password": "12345678",
+    "database": "tarea_clientes_pedidos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
